@@ -82,12 +82,11 @@ $$
 3. **Rozwinięcie logarytmu w szereg Taylora:** Dla dużych $n$ rozwijamy logarytm $\ln(1 + x)$ w przybliżeniu dla małych wartości $x = \frac{1}{n}$:
 
    $$
-
    \ln\left(1 + \frac{1}{n}\right) \approx \frac{1}{n}.
-
    $$
 
    Wstawiamy to z powrotem do równania:
+
    $$
    \ln\left(a_n\right) \approx n \cdot \frac{1}{n} = 1.
    $$
