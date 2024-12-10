@@ -74,13 +74,17 @@ $$
 1. **Rozwinięcie przybliżenia:** Dla dużych wartości $n$, wyrażenie $\left(1 + \frac{1}{n}\right)^n$ dąży do liczby zwanej **liczbą Eulera ($e$)**, która jest fundamentalną stałą matematyczną i wynosi w przybliżeniu $e \approx 2.718$.
 
 2. **Logarytm naturalny i pochodne:** Aby zrozumieć zachowanie ciągu, weźmy logarytm naturalny:
+
    $$
    \ln\left(a_n\right) = \ln\left(\left(1 + \frac{1}{n}\right)^n\right) = n \cdot \ln\left(1 + \frac{1}{n}\right).
    $$
 
 3. **Rozwinięcie logarytmu w szereg Taylora:** Dla dużych $n$ rozwijamy logarytm $\ln(1 + x)$ w przybliżeniu dla małych wartości $x = \frac{1}{n}$:
+
    $$
+
    \ln\left(1 + \frac{1}{n}\right) \approx \frac{1}{n}.
+
    $$
 
    Wstawiamy to z powrotem do równania:
@@ -89,6 +93,7 @@ $$
    $$
 
 4. **Ekspotencjowanie:** Ostatecznie, bierzemy eksponent:
+
    $$
    a_n = e^{\ln(a_n)} = e^1 = e.
    $$
