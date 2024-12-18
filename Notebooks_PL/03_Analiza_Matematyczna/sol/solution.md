@@ -21,30 +21,6 @@ $$
 
 ### (b) $\lim_{n \to \infty} \frac{(2n + 3)^3}{n^3 - 1}$
 
-Rozkładamy wyrażenie $(2n + 3)^3$ w liczniku:
-
-$$
-(2n + 3)^3 = 8n^3 + 36n^2 + 54n + 27.
-$$
-
-Zatem nasza funkcja wygląda następująco:
-
-$$
-\frac{(2n + 3)^3}{n^3 - 1} = \frac{8n^3 + 36n^2 + 54n + 27}{n^3 - 1}.
-$$
-
-Dzielimy licznik i mianownik przez $n^3$:
-
-$$
-\lim_{n \to \infty} \frac{(2n + 3)^3}{n^3 - 1} = \lim_{n \to \infty} \frac{8 + \frac{36}{n} + \frac{54}{n^2} + \frac{27}{n^3}}{1 - \frac{1}{n^3}}.
-$$
-
-Gdy $n \to \infty$, wszystkie składniki z $\frac{1}{n}$, $\frac{1}{n^2}$, $\frac{1}{n^3}$ w liczniku i mianowniku dążą do zera:
-
-$$
-\lim_{n \to \infty} \frac{(2n + 3)^3}{n^3 - 1} = \frac{8 + 0}{1 - 0} = 8.
-$$
-
 **Odpowiedź:** $8$.
 
 ---
