@@ -35,14 +35,13 @@ $$
 
 2. Відомо, що $f(x) = \cos(x)$, тоді:
 $$
-f'(x) = -\sin(x)
+f'(x) =
 $$
 
 3.
 $$
 
 $$
-**Komentarz (PL):** Liczymy pochodną kosinusa.
 **Komentarz (PL):** Wykazano, że pochodna funkcji spełnia podaną równość.
 
 ---
