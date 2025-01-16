@@ -80,11 +80,8 @@ Znajdź ekstremum funkcji \( f(x) = x^2 + 3x - 5 \).
 
    Zatem w punkcie \( x = -1.5 \) funkcja osiąga **minimum**.
 
-5. Sprawdzamy wartość funkcji w punkcie ekstremum:
-   $$f(-1.5) = (-1.5)^2 + 3(-1.5) - 5 = 2.25 - 4.5 - 5 = -7.25$$
-
 ### Odpowiedź:
-Funkcja \( f(x) \) osiąga minimum w punkcie \( x = -1.5 \), a wartość minimalna wynosi \( f(-1.5) = -7.25 \).
+Funkcja \( f(x) \) osiąga minimum w punkcie \( x = -1.5 \).
 
 ### Zadanie
 Znajdź ekstremum funkcji:
@@ -104,7 +101,7 @@ $$f(x) = \frac{x^2 + 2x + 1}{x - 1}.$$
    $$f'(x) = \frac{(2x + 2)(x - 1) - (x^2 + 2x + 1)(1)}{(x - 1)^2}.$$
 
 4. Upraszczamy licznik:
-   $$f'(x) = \frac{(2x^2 - 2x + 2x - 2) - (x^2 + 2x + 1)}{(x - 1)^2},$$
+   $$f'(x) = \frac{2x^2 - 2x + 2x - 2 - (x^2 + 2x + 1)}{(x - 1)^2},$$
    $$f'(x) = \frac{2x^2 - 2 - x^2 - 2x - 1}{(x - 1)^2},$$
    $$f'(x) = \frac{x^2 - 2x - 3}{(x - 1)^2}.$$
 
